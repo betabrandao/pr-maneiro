@@ -12,7 +12,6 @@ Faça alguém feliz com um comentário no PR!
 - Neymar Jr
 - Yudi Tamashiro
 - Ronaldinho Gaúcho
-- Jair M. Bolsonaro
 - Dilma Rousseff
 - Marina Silva
 - Vampeta
@@ -24,6 +23,7 @@ Faça alguém feliz com um comentário no PR!
 - Kléber Bambam
 - Maike da S.W.A.T
 - Mano Brown
+- Arthur Benozzati (Masculinah)
 
 ### Como instalar
 
