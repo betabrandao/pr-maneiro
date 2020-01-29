@@ -17,7 +17,7 @@ window.Persons = {
     msg: 'Esse PR é aleatório d+ até pros meus padrões',
     image: 'https://i.imgur.com/D2YmPkl.jpg',
   },
-  jair: {
+  benozza: {
     name: 'Arthur Benozzati (Masculynah)',
     username: 'benozzatiarthur',
     msg: 'Libera a PR. A Badernah vai começar',
