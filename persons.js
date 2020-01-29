@@ -18,10 +18,10 @@ window.Persons = {
     image: 'https://i.imgur.com/D2YmPkl.jpg',
   },
   jair: {
-    name: 'Jair M. Bolsonaro',
-    username: 'jairbolsonaro',
-    msg: 'PR legal. Grande abraço 👍🏻',
-    image: 'https://i.imgur.com/UrxtArM.jpg',
+    name: 'Arthur Benozzati (Masculynah)',
+    username: 'benozzatiarthur',
+    msg: 'Libera a PR. A Badernah vai começar',
+    image: 'https://i.imgur.com/DwQmRhe.jpg',
   },
   dilma: {
     name: 'Dilma Rousseff',
